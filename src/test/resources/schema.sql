@@ -1,0 +1,1 @@
+create table test (field int NOT NULL);
